@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAA-Lab4", "PAA-Lab4\PAA-Lab4.csproj", "{B76B17AA-F5ED-436B-9945-AED1BFB0AE71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B76B17AA-F5ED-436B-9945-AED1BFB0AE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76B17AA-F5ED-436B-9945-AED1BFB0AE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76B17AA-F5ED-436B-9945-AED1BFB0AE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76B17AA-F5ED-436B-9945-AED1BFB0AE71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA4C1D25-2320-4565-BC8C-80891DD15DE8}
+	EndGlobalSection
+EndGlobal
